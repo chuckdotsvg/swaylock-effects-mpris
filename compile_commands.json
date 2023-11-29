@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I/usr/include/dbus-1.0",
+      "-I/usr/lib/dbus-1.0/include",
+      "-o",
+      "playerctl_listener",
+      "playerctl_listener.c"
+    ],
+    "directory": "/home/chuck/projects/swaylockeffectsmpris",
+    "file": "/home/chuck/projects/swaylockeffectsmpris/playerctl_listener.c",
+    "output": "/home/chuck/projects/swaylockeffectsmpris/playerctl_listener"
+  }
+]
